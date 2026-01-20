@@ -84,5 +84,4 @@ profiluri de elevi in functie de comportamentul scolar.
 ---
 
 ## Autor
-
 Miha200101
